@@ -1,0 +1,5 @@
+*.pt
+*.pth
+node_modules/
+uploads/
+dist/

@@ -1,0 +1,5 @@
+{
+  "name": "Otonom Tespit Arayüzü",
+  "description": "Drone ve otonom sistemler için gerçek zamanlı nesne (İnsan, Taşıt) ve zemin tespiti izleme arayüzü.",
+  "requestFramePermissions": []
+}
